@@ -1,0 +1,8 @@
+Name: Flask-OIDC
+Website: https://github.com/puiterwijk/flask-oidc
+Github: puiterwijk/flask-oidc
+Bugtracker: https://github.com/puiterwijk/flask-oidc/issues
+Documentation: http://flask-oidc.readthedocs.io/en/latest/
+PyPI: Flask-OIDC
+License: BSD
+Status: active

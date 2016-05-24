@@ -1,0 +1,3 @@
+Flask-OIDC
+
+Adds support for OpenID Connect login to flask applications.
