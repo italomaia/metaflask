@@ -1,0 +1,5 @@
+Flask-Rev
+
+The Flask-Rev extension makes it easy to always use the latest version
+of your static files during deploy, even when using aggressive caching
+techniques.
